@@ -49,7 +49,7 @@ const path = require("path");
   "mongodb://noheAdmin:nohepass21@localhost/nohebot?retryWrites=true&w=majority";*/
 //let clientMongo = new MongoClient(uri);
 
-const bot = new TelegramBot("5976912704:AAF2E7oycuZ2x-fkh53UMvBB7xrVm-rbCSM", {
+const bot = new TelegramBot("5946973944:AAFznPo5dYL5W_OVud7G2958d9AEchKOKBY", {
   polling: true,
 });
 
